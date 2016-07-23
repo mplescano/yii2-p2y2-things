@@ -24,6 +24,7 @@
         }
     ],
 
+    "version": "1.0.7",
     "minimum-stability": "stable",
 
     "require": {
