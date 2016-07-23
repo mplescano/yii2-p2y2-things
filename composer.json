@@ -28,19 +28,19 @@
     "minimum-stability": "dev",
 
     "require": {
-        "yiisoft/yii2": ">=2.0.6",
-        "fxp/composer-asset-plugin": "~1.1",
-        "bower-asset/bootstrap": "~3.3",
-        "bower-asset/animate.css": "~3.5",
-        "bower-asset/bootstrap-social": "~4.12",
-        "rmrevin/yii2-fontawesome": "~2.13",
-        "fortawesome/font-awesome": "~4.5",
-        "components/flag-icon-css": "~1.2.0",
-        "datatables/datatables": "~1.10",
-        "imsky/holder": "*",
-        "nostalgiaz/bootstrap-switch": "~3.3",
-        "onokumus/metismenu": "*",
-        "philippfrenzel/yii2fullcalendar": "*"
+        "yiisoft/yii2": "=2.0.7",
+        "fxp/composer-asset-plugin": "=1.1.2",
+        "bower-asset/bootstrap": "=3.3.5",
+        "bower-asset/animate.css": "=3.5.1",
+        "bower-asset/bootstrap-social": "=4.12.0",
+        "rmrevin/yii2-fontawesome": "=2.13.0",
+        "fortawesome/font-awesome": "=4.5.0",
+        "components/flag-icon-css": "=1.2.0",
+        "datatables/datatables": "=1.10.11",
+        "imsky/holder": "=2.9.1",
+        "nostalgiaz/bootstrap-switch": "=3.3.2",
+        "onokumus/metismenu": "=2.4.0",
+        "philippfrenzel/yii2fullcalendar": "=2.5.0"
     },
     "autoload": {
         "psr-4": {
